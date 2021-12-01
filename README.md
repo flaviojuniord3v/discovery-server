@@ -1,5 +1,4 @@
-Application that holds the information about all micro-service applications.
+## Service discovery and load balancing with Spring Cloud Netflix Eureka
 
+This project is part of this [Proof of concept](https://github.com/flaviojuniord3v/microservice-docs/)
 
-docker build /discovery-service
-docker run -p 8761:8761 token
